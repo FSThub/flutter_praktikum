@@ -21,6 +21,11 @@ Aplikasi Flutter untuk UTS Mata Kuliah **Pemrograman untuk Perangkat Bergerak**.
 ## Cara Menjalankan
 
 1. Clone repositori:
+
    ```bash
    git clone https://github.com/FSThub/flutter_praktikum.git
+   cd flutter_praktikum
+   flutter pub get
+   Emulator : flutter run
+   Web : flutter run -d chrome
    ```

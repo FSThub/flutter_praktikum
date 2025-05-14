@@ -2,6 +2,12 @@
 
 Aplikasi Flutter untuk UTS Mata Kuliah **Pemrograman untuk Perangkat Bergerak**.
 
+# Identitas
+
+- Nama : Farrel Shaquille Tarantino
+- NPM : 613230003
+- Kelas : D3 TI 2A
+
 ## Fitur
 
 - Form input nama & email
